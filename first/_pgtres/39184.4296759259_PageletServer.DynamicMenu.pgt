@@ -1,0 +1,119 @@
+========== Description Part Begin ==========
+Title = FP39184.4296759259
+ProgID = PageletServer.DynamicMenu
+LastUpdateTime = 39184.429675926
+PreviewPath = _pgtres/
+Description = 
+========== Description Part End ==========
+
+========== Parameter Part Begin ==========
+MenuItem0_19 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_3 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuBody0 = 21;auto;0;0;vertically;;7;7;0;3;16777215;true;;tiled;0;0;solid;0;Normal;50;true;0;0;0;0;0;8355711;0;none;;;;;;;;;;;
+MenuItem0_4 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_5 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_6 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_7 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_8 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_9 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_20 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_10 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+TopMenuBody = menu1176344139;static;0;0;left;false;true;310;1000;250;1;;;;
+MenuItem0_11 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_12 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_13 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_14 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_15 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_16 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_0 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\okon.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\okon.JPG;140;90;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_17 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_1 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_18 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+MenuItem0_2 = 0;選單項 1;left;middle;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a1.JPG;D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\a2.JPG;140;30;0;normal;1;13555414;true;8650752;true;;1;-1;-1;;;-1;-1;0;;;_self;Arial;9;0;normal;normal;none;Arial;9;16777215;normal;normal;none;0;solid;13555414;13555414;13555414;13555414;13555414;13555414;13555414;13555414;0;1;;1;;;tiled;tiled;0;;;;;;;
+========== Parameter Part End ==========
+
+========== Resource Part Begin ==========
+Resource Number = 44
+stm31.js=C:\PROGRA~1\SOURCE~1\SOTHIN~1\Resource\=
+blank.gif=C:\PROGRA~1\SOURCE~1\SOTHIN~1\Resource\=
+okon.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+okon.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a1.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+a2.JPG=D:\林新偉-專用\汽車噪音及振動-課本\first\_pgtres\=
+========== Resource Part End ==========
+
+========== HTML Part Begin ==========
+Segment Number = 2
+Segment Position = script
+<script type="text/javascript" language="JavaScript1.2" src="_pgtres/stm31.js"></script>===== Segment End =====
+Segment Position = cursor
+<script type="text/javascript" language="JavaScript1.2">
+<!--
+beginSTM("menu1176344139","static","0","0","left","false","true","310","1000","0","250","","_pgtres/blank.gif");
+beginSTMB("auto","0","0","vertically","_pgtres/arrow_r.gif","0","0","0","3","transparent","","tiled","#000000","0","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/okon.JPG","_pgtres/okon.JPG","140","90","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/a1.JPG","_pgtres/a2.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","-1","-1","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+endSTMB();
+endSTM();
+//-->
+</script>
+===== Segment End =====
+========== HTML Part End ==========
+

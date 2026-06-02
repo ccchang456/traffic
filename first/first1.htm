@@ -1,0 +1,142 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-tw">
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>新增網頁2</title>
+<base target="main">
+
+<script type="text/javascript" language="JavaScript1.2" src="_pgtres/stm31.js"></script>
+<script language="JavaScript">
+<!--
+function getCookieVal (offset) 
+{
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+function GetCookie (name) 
+{
+var arg = name + "=";
+var alen = arg.length;
+var clen = document.cookie.length;
+var i = 0;
+while (i < clen) 
+{
+var j = i + alen;
+if (document.cookie.substring(i, j) == arg)
+return getCookieVal (j);
+i = document.cookie.indexOf(" ", i) + 1;
+if (i == 0) 
+break; 
+}
+return null;
+}
+function SetCookie (name, value) 
+{
+var argv = SetCookie.arguments;
+var argc = SetCookie.arguments.length;
+var expires = (2 < argc) ? argv[2] : null;
+var path = (3 < argc) ? argv[3] : null;
+var domain = (4 < argc) ? argv[4] : null;
+var secure = (5 < argc) ? argv[5] : false;
+document.cookie = name + "=" + escape (value) +
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+((path == null) ? "" : ("; path=" + path)) +
+((domain == null) ? "" : ("; domain=" + domain)) +
+((secure == true) ? "; secure" : "");
+}
+function DisplayInfo() 
+{
+var expdate = new Date();
+var visit;
+expdate.setTime(expdate.getTime() + (24 * 60 * 60 * 1000 * 365)); 
+if(!(visit = GetCookie("visit"))) 
+visit = 0;
+visit++;
+SetCookie("visit", visit, expdate, "/", null, false);
+var message;
+if(visit == 1) 
+message="力學鑑定網站歡迎你";
+if(visit == 2) 
+message="要常來喔";
+if(visit == 3) 
+message="請多多利用網站資源";
+if(visit == 4) 
+message="謝謝您再度光臨";
+if(visit == 5)
+message="祝您瀏覽愉快"; 
+if(visit >= 6) 
+message="記得將本站加入最愛喔 ^_^";
+alert("\n"+"參觀本頁次數：第"
++" "+visit+""
++" 次"+"\n"+"\n"
++message);
+}
+-->
+</script>
+</head>
+
+<body bgcolor="#FFCC99" onload="DisplayInfo()">
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left:-1px; top:15px" id="layer1">
+
+	<p><!-- Sothink Widgets Begin, Do not edit it -->
+	<script id="Sothink Widgets:_pgtres\39184.4318634259_PageletServer.DynamicMenu.pgt" type="text/javascript" language="JavaScript1.2">
+<!--
+beginSTM("menu1176344436","static","0","0","left","false","true","310","1000","0","250","","_pgtres/blank.gif");
+beginSTMB("auto","0","0","vertically","","0","0","0","3","transparent","","tiled","#000000","0","solid","0","Normal","50","0","0","0","0","0","0","0","#7f7f7f","false","#000000","#000000","#000000","none");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/okon.JPG","_pgtres/okon.JPG","140","90","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/22.jpg","_pgtres/2.jpg","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/33.jpg","_pgtres/3.jpg","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+appendSTMI("true","選單項&nbsp;1","left","middle","_pgtres/11.JPG","_pgtres/1.JPG","140","30","0","normal","transparent","transparent","","1","-1","-1","_pgtres/blank.gif","_pgtres/blank.gif","0","0","0","","","_self","Arial","9pt","#000000","normal","normal","none","Arial","9pt","#ffffff","normal","normal","none","0","solid","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","#d6d6ce","","","","tiled","tiled");
+endSTMB();
+endSTM();
+//-->
+</script>
+<!-- Sothink Widgets End, Do not edit it --></p>
+
+	<p>　</div>
+<div style="position: absolute; width: 111px; height: 7px; z-index: 2; left: 32px; top: 28px" id="layer2">
+	<b>
+	<font color="#0000FF">您進站時間是</font></b></div>
+<div style="position: absolute; width: 77px; height: 23px; z-index: 3; left: 48px; top: 59px" id="layer3">
+<script language="JavaScript"> 
+Stamp = new Date(); 
+document.write('<font face="Arial,Geneva,Sans Serif" color=#993300><B>' +Stamp.getYear()+"/"+(Stamp.getMonth() + 1)+ "/"+Stamp.getDate()+ '</B></font><br>'); 
+var Hours; 
+var Mins; 
+var Time; 
+Hours = Stamp.getHours(); 
+if (Hours >= 12) { 
+Time = " PM"; 
+} 
+else { 
+Time = " AM"; 
+} 
+ 
+if (Hours > 12) { 
+Hours -= 12; 
+} 
+if (Hours == 0) { 
+Hours = 12; 
+} 
+Mins = Stamp.getMinutes(); 
+if (Mins < 10) { 
+Mins = "0" + Mins; 
+} 
+ 
+document.write('<font face="Arial,Geneva,Sans Serif" color=#993300><B>' + Hours + ":" + Mins + Time + '</B></font>'); 
+</script>
+　</div>
+</body>
+
+</html>

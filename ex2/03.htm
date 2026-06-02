@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>無標題文件</title>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body background="../A/si_96.gif">
+<p align="center"><img src="../A/06004032.GIF" width="249" height="15"><img src="../B/14.png" width="150" height="35"><img src="../A/06004031.GIF" width="249" height="15"></p>
+<table width="77%" border="1" align="center">
+  <tr>
+    <td><font color="#0000FF">點質量模型</font>(point mass model)忽略兩部汽車碰撞後的旋轉運動，點質量模型與簡易模型相比多考慮了碰撞切線方向的摩擦，為此需用到切線與法線座標、恢復係數、衝量比，如圖1所示。其模型如圖2所示。</td>
+  </tr>
+</table>
+<table width="77%" border="1" align="center">
+  <tr> 
+    <td width="54%" height="127"><div align="center"><img src="001.JPG" width="277" height="169">圖1</div></td>
+    <td width="46%"><div align="center">
+        <p><img src="002.JPG" width="239" height="155">圖2</p>
+        </div></td>
+  </tr>
+</table>
+<table width="77%" border="1" align="center">
+  <tr> 
+    <td width="74%" height="100"><font size="+1">正推法的步驟大致如下：</font><br>
+      (1) 根據跡証，決定碰撞點、碰撞方向、碰撞位置、煞車距離。<br>
+      (2) 從碰撞車的車面決定碰撞面方向、碰撞中心之位置，由此可決定質心至碰撞中心。<br>
+      (3) 輸入兩車的質量、尺寸及有關數據。<br>
+      (4) 決定可能知道的速度量及汽車速度方向，例如碰撞前車的角速度常為零。<br>
+      (5) 決定恢復係數及衝量比 。<br>
+      (6) 利用已知的數據作碰撞分析。<br>
+      (7) 改變初始速度直到碰撞後的資訊與實際接近相等。<br></td>
+    <td width="26%"><div align="center"><a href="../ex/04B1.xls"><img src="../B/20.png" width="150" height="40" border="0"></a></div></td>
+  </tr>
+  <tr> 
+    <td height="74">反推法的步驟前三項與正推法相同，接著便是利用已知煞車痕跡計算出碰撞後車速，再反推出碰撞前車速。</td>
+    <td><div align="center"><a href="../ex/04B2.xls"><img src="../B/19.png" width="150" height="40" border="0"></a></div></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp; </p>
+<p align="center">&nbsp;</p>
+</body>
+</html>
